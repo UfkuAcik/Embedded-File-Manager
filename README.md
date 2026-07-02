@@ -1,4 +1,4 @@
-# MCU File Bridge
+# Embedded File Manager
 
 Warning: 
 
